@@ -1,0 +1,6 @@
+{
+    "intigriti_api_key": "YOUR_INTIGRITI_API_KEY",
+    "telegram_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "chat_id": "YOUR_CHAT_ID",
+    "check_interval": 1
+}
